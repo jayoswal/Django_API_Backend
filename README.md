@@ -13,3 +13,6 @@
  
 #### 4. Start the app.
  `python3 manage.py runserver`
+
+#### 5. URL of app.
+> http://127.0.0.1:8000/

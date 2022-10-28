@@ -19,9 +19,5 @@
   (details covered further)
   
 ### Demo
-#### 1. View all Users
-
-(Browser)
-
-
+#### 1. View all Users (Browser)
 > http://127.0.0.1:8000/users

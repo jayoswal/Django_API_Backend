@@ -24,7 +24,11 @@
 
 #### 2. Admin to add mew Users
 > http://127.0.0.1:8000/admin
+
+
 > username = Admin
+
+
 > password = Admin@1234
 
 

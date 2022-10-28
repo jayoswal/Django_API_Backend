@@ -9,7 +9,7 @@
  `cd Django_API_Backend`
  
 #### 3. Download all dependencies.
- `pip install -r requirements.txt`
+ `pip3 install -r requirements.txt`
  
 #### 4. Start the app.
- `python manage.py runserver`
+ `python3 manage.py runserver`

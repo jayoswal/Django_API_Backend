@@ -16,3 +16,4 @@
 
 #### 5. URL of app.
 > http://127.0.0.1:8000/
+  (details covered further)

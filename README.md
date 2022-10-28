@@ -21,3 +21,8 @@
 ### Demo
 #### 1. View all Users (Browser)
 > http://127.0.0.1:8000/users
+
+#### 2. Admin to add mew Users
+> http://127.0.0.1:8000/admin
+> username = Admin
+> password = Admin@123

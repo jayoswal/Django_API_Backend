@@ -7,4 +7,4 @@
  
  Move into folder
  
- > 'cd Django_API_Backend'
+ 'cd Django_API_Backend'
